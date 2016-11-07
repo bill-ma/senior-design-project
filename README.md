@@ -1,1 +1,2 @@
-# senior-design-project
+# eec181-final-project
+neural network
